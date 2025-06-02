@@ -1,2 +1,3 @@
-# git-session
-repo for git session practice
+# git-session contributers
+
+- Salman
