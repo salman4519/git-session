@@ -1,6 +1,7 @@
 # git-session contributers
 
 - Salman
+- Jiya
 - Krishnendu
 - Jeswin
 - Harinanda 
@@ -8,6 +9,7 @@
 - Devika
 - Ganga
 - Fathima
+
 
 
 
