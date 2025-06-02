@@ -1,6 +1,7 @@
 # git-session contributers
 
 - Salman
+- jaico
 - Jiya
 - Krishnendu
 - Jeswin
