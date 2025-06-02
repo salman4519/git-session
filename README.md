@@ -1,4 +1,19 @@
 # git-session contributers
 
 - Salman
-judeben
+- judeben
+- jaico
+- Jiya
+- Krishnendu
+- Jeswin
+- Harinanda 
+- Jyothika
+- Devika
+- Ganga
+- Fathima
+
+
+
+
+
+
