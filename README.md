@@ -1,3 +1,3 @@
 # git-session contributers
 
-- Salman
+- Suryanarayan K S 
