@@ -1,7 +1,8 @@
 # git-session contributers
 
 - Salman
--Julion
+- jesbel
+- Julion
 - ahammad
 - judeben
 - jaico
@@ -13,6 +14,7 @@
 - Devika
 - Ganga
 - Fathima
+
 
 
 
